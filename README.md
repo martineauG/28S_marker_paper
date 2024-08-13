@@ -13,7 +13,7 @@ Sequences were processed using the DADA2 pipeline. See the manuscript for detail
 ## Bioinformatics
 The Bioinformatics folder is divided into 3 subfolders, each containing all the data and code needed to create the taxonomy tables for the 3 different sequencing runs.  Refer to manuscript for additional information.
 
-	1. ### ARMSA28S
+	### 1. ARMSA28S
 	contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to assign taxonomy, filter, and merge BLASTn results for ARMS A and 	associated mock communities. The resulting taxonomy and abundance tables are located in the 28SCOI folder. 
 
 	- Cleaned post-DADA2 abundance table- Martineau_TestingPrimers_Clean_ARM17_abundance_071224.rarefied.csv
@@ -22,7 +22,7 @@ The Bioinformatics folder is divided into 3 subfolders, each containing all the 
 	- BLASTn output of sequences queried against GenBank nt database - blast_results_ARMS17_nt.tab
 	- R script filtering BLASTn outputs, assigning taxonomy, merging results and duplicates - Martineau_TestingPrimers_bioinformatics_ARMSA28S_070224.R
 
-	2. ### COI
+	### 2. COI
 	contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to assign taxonomy, filter, and merge BLASTn results for COI data. The 	resulting taxonomy and abundance tables are located in the 28SCOI folder. 
 
 	- Cleaned post-DADA2 abundance table- Testing_primers_abundance_ASV_COI_070224.rarefied.csv
@@ -31,7 +31,7 @@ The Bioinformatics folder is divided into 3 subfolders, each containing all the 
 	- BLASTn output of sequences queried against GenBank nt database - blastn_COI_outputs-070224.tab
 	- R script filtering BLASTn outputs, assigning taxonomy, merging results and duplicates - Martineau_TestingPrimers_bioinformatics_COI.R
 
-	3. ### 28SCOI
+	### 3. 28SCOI
 	contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to assign taxonomy, filter, and merge BLASTn results for *Mock 	community 1*, 28S ARMS B and C, and associated mock communities. This R script also merges abundance and taxonomy tables from the 3 sequencing runs 	into one clean and final output with no duplicated taxonomic entities. Those final tables are located in the Clean_tables folder. 
 
 	- Cleaned post-DADA2 abundance table- Martineau_Testing_primers_abundance_ASV_070224.rarefied.csv
