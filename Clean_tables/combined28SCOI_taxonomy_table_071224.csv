@@ -1,0 +1,236 @@
+ID_ASV,kingdom,phylum,class,order,family,genus,species
+ASV1,Metazoa,Porifera,Demospongiae,Tetractinellida,Ancorinidae,unclassified,Ancorinidae sp. 3 JV-2020
+ASV100002,Metazoa,Annelida,Polychaeta,Terebellida,Cirratulidae,Aphelochaeta,Aphelochaeta marioni
+ASV100010,Metazoa,Annelida,Polychaeta,Sabellida,Serpulidae,Pileolaria,Pileolaria militaris
+ASV100014,Metazoa,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella,Oscarella sp. 6 JV-2020
+ASV100015,Metazoa,Annelida,Polychaeta,Terebellida,Cirratulidae,Dodecaceria,Dodecaceria concharum
+ASV100017,Metazoa,Mollusca,Gastropoda,Lepetellida,Fissurellidae,Diodora,Diodora sp. MNHN IM 2013-5629
+ASV100019,Metazoa,Annelida,Polychaeta,Terebellida,Cirratulidae,Aphelochaeta,Aphelochaeta sp. MG394
+ASV100022,Metazoa,Annelida,Polychaeta,Phyllodocida,Syllidae,Exogone,Exogone verugera
+ASV100023,unclassified,Bacillariophyta,Bacillariophyceae,Bacillariales,Bacillariaceae,Nitzschia,Nitzschia sp. CHPN1
+ASV100025,unclassified,unclassified,Phaeophyceae,Ectocarpales,Chordariaceae,Ascoseirophila,Ascoseirophila violodora
+ASV100028,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,Ophiactis,Ophiactis resiliens
+ASV100029,Metazoa,Cnidaria,Hydrozoa,Anthoathecata,Hydrichthyidae,Hydrichthys,Hydrichthys boycei
+ASV100030,Metazoa,Annelida,Polychaeta,Sabellida,Serpulidae,Jugaria,Jugaria quadrangularis
+ASV100031,unclassified,unclassified,unclassified,unclassified,unclassified,unclassified,uncultured eukaryote
+ASV100037,unclassified,Cercozoa,Chlorarachniophyceae,unclassified,unclassified,Lotharella,Lotharella globosa
+ASV100039,Metazoa,Cnidaria,Hydrozoa,Leptothecata,Haleciidae,Nemalecium,Nemalecium lighti
+ASV100040,Metazoa,Cnidaria,Hydrozoa,Leptothecata,unclassified,unclassified,Obeliida sp. USNM 1420678
+ASV100042,unclassified,unclassified,unclassified,unclassified,unclassified,unclassified,uncultured bacterium KM3-187-G1
+ASV100043,Metazoa,Porifera,Demospongiae,Haplosclerida,unclassified,unclassified,Haplosclerida sp. 10 JV-2020
+ASV100044,Metazoa,Bryozoa,Gymnolaemata,Cheilostomatida,Chaperiidae,Chaperiopsis,Chaperiopsis lanceola
+ASV100045,Metazoa,Porifera,Demospongiae,Biemnida,Biemnidae,Neofibularia,Neofibularia hartmani
+ASV100048,Metazoa,Cnidaria,Hydrozoa,Leptothecata,Laodiceidae,Melicertissa,Melicertissa sp. AGC-2001
+ASV100050,Viridiplantae,Streptophyta,Magnoliopsida,Gentianales,Rubiaceae,Sipanea,Sipanea sp. Rova et al. 1981
+ASV100051,unclassified,Bacillariophyta,Coscinodiscophyceae,Thalassiosirales,Thalassiosiraceae,Mediolabrus,Mediolabrus comicus
+ASV100053,unclassified,Rhodophyta,Florideophyceae,Gigartinales,Hypneaceae,Hypnea,Hypnea charoides
+ASV100054,unclassified,unclassified,Dinophyceae,Prorocentrales,Prorocentraceae,Prorocentrum,Prorocentrum sp.
+ASV100058,Fungi,Basidiomycota,Agaricomycetes,Auriculariales,Auriculariaceae,Auricularia,Auricularia nigricans
+ASV101,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 5 JV-2020
+ASV108,Metazoa,Porifera,Demospongiae,Haplosclerida,Callyspongiidae,Callyspongia,Callyspongia sp. 2 JV-2020
+ASV109,Metazoa,Porifera,Demospongiae,Suberitida,unclassified,unclassified,Suberitida sp. 1 JV-2020
+ASV11,Metazoa,Porifera,Demospongiae,Poecilosclerida,unclassified,unclassified,Poecilosclerida sp. 2 JV-2020
+ASV110,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Hymeniacidon,Hymeniacidon sp. 3 JV-2020
+ASV113,Metazoa,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Haliclona sp. 24 JV-2020
+ASV114,Metazoa,Porifera,Demospongiae,Tethyida,Tethyidae,Tethya,Tethya sp. 5 JV-2020
+ASV118,Metazoa,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Dysidea,Dysidea sp. 3 JV-2020
+ASV119,unclassified,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Hydrolithon,Hydrolithon cf. reinboldii
+ASV12,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Halichondria sp. 1 JV-2020
+ASV122,Metazoa,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Mycale sp. 10 JV-2020
+ASV127,Metazoa,Porifera,Demospongiae,Haplosclerida,Callyspongiidae,Callyspongia,Callyspongia sp. 1 JV-2020
+ASV129,Metazoa,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Dysidea,Dysidea cf. pallescens JV-2020
+ASV13,Metazoa,Porifera,Demospongiae,Tethyida,Tethyidae,Tethya,Tethya sp. 3 JV-2020
+ASV131,Metazoa,Annelida,Polychaeta,Eunicida,Eunicidae,Eunice,Eunice australis
+ASV132,Metazoa,Porifera,Demospongiae,unclassified,unclassified,unclassified,Keratosa sp. 1 JV-2020
+ASV137,Metazoa,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Haliclona sp. 4 JV-2020
+ASV14,Metazoa,Porifera,Demospongiae,Dictyoceratida,Dysideidae,Dysidea,Dysidea sp. 5 JV-2020
+ASV140,Metazoa,Porifera,Calcarea,Clathrinida,Clathrinidae,unclassified,Clathrinidae sp. 5 JV-2020
+ASV141,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Halichondria sp. 2 JV-2020
+ASV147,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Halichondria sp. 5 JV-2020
+ASV150,Metazoa,Porifera,Demospongiae,Suberitida,unclassified,unclassified,Suberitida sp. 2 JV-2020
+ASV151,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Hymeniacidon,Hymeniacidon sp. 1 JV-2020
+ASV161,Metazoa,Mollusca,Gastropoda,Pleurotomariida,Scissurellidae,Scissurella,Scissurella coronata
+ASV163,Metazoa,Porifera,Demospongiae,Haplosclerida,unclassified,unclassified,Haplosclerida sp. 14 JV-2020
+ASV165,Metazoa,Porifera,Demospongiae,Axinellida,unclassified,unclassified,Axinellida sp. 1 JV-2020
+ASV17,Metazoa,Porifera,Demospongiae,Suberitida,Suberitidae,unclassified,Suberitidae sp. 2 JV-2020
+ASV177,Metazoa,Porifera,Demospongiae,Tetractinellida,Ancorinidae,unclassified,Ancorinidae sp. 1 JV-2020
+ASV178,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Hymeniacidon,Hymeniacidon sp. 2 JV-2020
+ASV183,Metazoa,Porifera,Demospongiae,Biemnida,Biemnidae,Biemna,Biemna sp. P60
+ASV189,unclassified,Rhodophyta,Florideophyceae,Corallinales,Lithophyllaceae,Lithophyllum,Lithophyllum racemus
+ASV190,Metazoa,Porifera,Demospongiae,Suberitida,Suberitidae,unclassified,Suberitidae sp. 3 JV-2020
+ASV2,unclassified,Rhodophyta,Florideophyceae,Corallinales,unclassified,unclassified,uncultured Corallinales
+ASV20,Metazoa,Porifera,Demospongiae,Poecilosclerida,unclassified,unclassified,Poecilosclerida sp. 1 JV-2020
+ASV204,Metazoa,Porifera,Demospongiae,Poecilosclerida,unclassified,unclassified,Poecilosclerida sp. 10 JV-2020
+ASV210,Metazoa,Porifera,Demospongiae,Tethyida,Tethyidae,Tethya,Tethya sp. 6 JV-2020
+ASV211,Metazoa,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Mycale sp. SI_110Y
+ASV213,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae,Amphipholis,Amphipholis squamata
+ASV215,Metazoa,Porifera,Homoscleromorpha,Homosclerophorida,Plakinidae,Plakina,Plakina sp. 1 JV-2020
+ASV220,Metazoa,Annelida,Polychaeta,Eunicida,Eunicidae,Nematonereis,Nematonereis sp. VR-2006
+ASV221,Metazoa,Porifera,Demospongiae,Dictyoceratida,unclassified,unclassified,Dictyoceratida sp. 4 JV-2020
+ASV224,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Hymeniacidon,Hymeniacidon caerulea
+ASV227,Metazoa,Porifera,Demospongiae,Haplosclerida,unclassified,unclassified,Haliclona sp. 2 JV-2020
+ASV228,Metazoa,Porifera,Demospongiae,Clionaida,Spirastrellidae,Spheciospongia,Spheciospongia solida
+ASV232,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 3 JV-2020
+ASV237,Metazoa,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella,Oscarella sp. 5 JV-2020
+ASV241,Metazoa,Porifera,Demospongiae,Axinellida,Raspailiidae,Echinodictyum,Echinodictyum sp. 1 JV-2020
+ASV242,Metazoa,Porifera,Demospongiae,Chondrillida,unclassified,unclassified,Chondrillida sp. 1 JV-2020
+ASV248,Metazoa,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Chelonaplysilla,Chelonaplysilla sp. 1 JV-2020
+ASV25,Metazoa,Porifera,Demospongiae,Suberitida,unclassified,unclassified,Suberitida sp. 3 JV-2020
+ASV259,Metazoa,Porifera,Demospongiae,Tetractinellida,Ancorinidae,unclassified,Ancorinidae sp. 5 JV-2020
+ASV265,Metazoa,Porifera,Demospongiae,Poecilosclerida,Coelosphaeridae,Lissodendoryx,Lissodendoryx sp. 1 JV-2020
+ASV266,Metazoa,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Mycale sp. 9 JV-2020
+ASV269,Metazoa,Porifera,Demospongiae,Poecilosclerida,Crambeidae,Monanchora,Monanchora clathrata
+ASV270,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 21 JV-2020
+ASV271,Metazoa,Porifera,Demospongiae,Clionaida,Spirastrellidae,Spirastrella,Spirastrella sp. 1 JV-2020
+ASV278,Metazoa,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Haliclona sp. 21 JV-2020
+ASV284,Metazoa,Porifera,Demospongiae,Dendroceratida,unclassified,unclassified,Dendroceratida sp. 3 JV-2020
+ASV289,Metazoa,Porifera,Demospongiae,Tetractinellida,Ancorinidae,unclassified,Ancorinidae sp. 7 JV-2020
+ASV294,Metazoa,Mollusca,Gastropoda,Lepetellida,Fissurellidae,Diodora,Diodora cayenensis
+ASV295,Metazoa,Porifera,Demospongiae,Poecilosclerida,unclassified,unclassified,Poecilosclerida sp. 9 JV-2020
+ASV296,Metazoa,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Chelonaplysilla,Chelonaplysilla sp. 3 JV-2020
+ASV3,Metazoa,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Haliclona sp. 1 JV-2020
+ASV30,unclassified,Rhodophyta,Florideophyceae,Corallinales,unclassified,unclassified,Corallinales sp.
+ASV302,Metazoa,Porifera,Demospongiae,Poecilosclerida,Tedaniidae,Tedania,Tedania cf. klausi JV-2020
+ASV304,Metazoa,Porifera,Demospongiae,Suberitida,Suberitidae,Suberites,Suberites sp. 1 JV-2020
+ASV306,Metazoa,Porifera,Calcarea,Clathrinida,unclassified,unclassified,Clathrinida sp. 1 JV-2020
+ASV307,Metazoa,Porifera,Demospongiae,Dictyoceratida,Dysideidae,unclassified,Dysideidae sp. 1 JV-2020
+ASV314,Metazoa,Porifera,Demospongiae,Poecilosclerida,Coelosphaeridae,Lissodendoryx,Lissodendoryx hawaiiana
+ASV317,Metazoa,Porifera,Calcarea,unclassified,unclassified,unclassified,Calcinea sp. 1 JV-2020
+ASV319,Metazoa,Porifera,Demospongiae,Poecilosclerida,Tedaniidae,Tedania,Tedania sp. 1 JV-2020
+ASV322,Metazoa,Porifera,Demospongiae,Poecilosclerida,unclassified,unclassified,Poecilosclerida sp. 4 JV-2020
+ASV324,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Vermetidae,Cupolaconcha,Cupolaconcha meroclista
+ASV335,Metazoa,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Mycale sp. 4 JV-2020
+ASV341,Metazoa,Mollusca,Gastropoda,Trochida,Trochidae,unclassified,Trochidae gen. n. sp. m JZ-2019
+ASV346,Metazoa,Mollusca,Gastropoda,unclassified,Cerithiidae,Clypeomorus,Clypeomorus bifasciata
+ASV35,Metazoa,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Haliclona laubenfelsi
+ASV360,unclassified,Cyanobacteriota,Cyanophyceae,Synechococcales,Prochloraceae,Candidatus Paraprochloron,Candidatus Paraprochloron terpiosi
+ASV366,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Vermetidae,Dendropoma,Dendropoma rhyssoconchum
+ASV367,Metazoa,Porifera,Demospongiae,Clionaida,unclassified,unclassified,Clionaida sp. 1 JV-2020
+ASV37,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Hymeniacidon,Hymeniacidon sp. 5 JV-2020
+ASV377,Metazoa,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Aplysilla,Aplysilla rosea
+ASV386,Metazoa,Porifera,Demospongiae,Tetractinellida,Theonellidae,Racodiscula,Racodiscula asteroides
+ASV392,unclassified,Pseudomonadota,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli
+ASV393,Metazoa,Bryozoa,Gymnolaemata,Cheilostomatida,Smittinidae,Smittina,Smittina torques
+ASV399,Metazoa,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella,Oscarella sp. 1 JV-2020
+ASV4,Metazoa,Porifera,Demospongiae,Suberitida,Suberitidae,unclassified,Suberitidae sp. 1 JV-2020
+ASV40,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 1 JV-2020
+ASV402,Metazoa,Porifera,Demospongiae,Poecilosclerida,unclassified,unclassified,Poecilosclerida sp. 3 JV-2020
+ASV403,Metazoa,Porifera,Calcarea,Clathrinida,unclassified,unclassified,Clathrinida sp. 2 JV-2020
+ASV420,Metazoa,Porifera,Demospongiae,Tethyida,Tethyidae,unclassified,Tethyidae sp. 1 JV-2020
+ASV433,Metazoa,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella,Oscarella sp. 3 JV-2020
+ASV444,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 10 JV-2020
+ASV461,Metazoa,Porifera,Demospongiae,Dictyoceratida,unclassified,unclassified,Dictyoceratida sp. 3 JV-2020
+ASV469,Metazoa,Porifera,Demospongiae,Tetractinellida,Ancorinidae,unclassified,Ancorinidae sp. 8 JV-2020
+ASV47,unclassified,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Pneophyllum,Pneophyllum cetinaensis
+ASV474,Metazoa,Porifera,Demospongiae,Haplosclerida,unclassified,unclassified,Haplosclerida sp. 8 JV-2020
+ASV48,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 7 JV-2020
+ASV49,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 11 JV-2020
+ASV491,Metazoa,Porifera,Calcarea,Clathrinida,Clathrinidae,unclassified,Clathrinidae sp. 9 JV-2020
+ASV494,Viridiplantae,Chlorophyta,Ulvophyceae,Ulvales,Ulvaceae,Ulva,Ulva linza
+ASV497,Metazoa,Chordata,Mammalia,Primates,Hominidae,Homo,Homo sapiens
+ASV511,Metazoa,Porifera,Demospongiae,unclassified,unclassified,unclassified,Keratosa sp. 2 JV-2020
+ASV513,Metazoa,Porifera,Homoscleromorpha,Homosclerophorida,Oscarellidae,Oscarella,Oscarella sp. 2 JV-2020
+ASV52,unclassified,Rhodophyta,Florideophyceae,Gigartinales,Hypneaceae,Hypnea,Hypnea wynnei
+ASV522,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Halichondria sp. 4 JV-2020
+ASV523,Metazoa,Porifera,Calcarea,Clathrinida,Clathrinidae,unclassified,Clathrinidae sp. 8 JV-2020
+ASV56,Metazoa,Annelida,Polychaeta,Phyllodocida,Polynoidae,Lepidonotus,Lepidonotus squamatus
+ASV597,unclassified,Rhodophyta,Florideophyceae,Peyssonneliales,Peyssonneliaceae,Peyssonnelia,Peyssonnelia dubyi
+ASV601,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,Ophiactis,Ophiactis savignyi
+ASV611,Metazoa,Porifera,Demospongiae,Haplosclerida,unclassified,unclassified,Haplosclerida sp. 2 JV-2020
+ASV619,Metazoa,Porifera,Demospongiae,Bubarida,Dictyonellidae,Dictyonella,Dictyonella sp. SI_121Y
+ASV624,Metazoa,Porifera,Homoscleromorpha,Homosclerophorida,Plakinidae,Plakinastrella,Plakinastrella sp. 1 JV-2020
+ASV649,unclassified,unclassified,Phaeophyceae,Ectocarpales,Chordariaceae,Streblonema,Streblonema maculans
+ASV652,Metazoa,Porifera,Demospongiae,Haplosclerida,Niphatidae,Gelliodes,Gelliodes wilsoni
+ASV665,Metazoa,Annelida,Polychaeta,Eunicida,Amphinomidae,Eurythoe,Eurythoe complanata
+ASV672,Metazoa,Porifera,Calcarea,Clathrinida,Clathrinidae,unclassified,Clathrinidae sp. 10 JV-2020
+ASV677,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Hipponicidae,Sabia,Sabia conica
+ASV697,Metazoa,Porifera,Demospongiae,Chondrillida,unclassified,unclassified,Chondrillida sp. 3 JV-2020
+ASV706,unclassified,Bacillota,Bacilli,Bacillales,Bacillaceae,Cytobacillus,Cytobacillus spongiae
+ASV71,Metazoa,Porifera,Calcarea,Clathrinida,Clathrinidae,unclassified,Clathrinidae sp. 3 JV-2020
+ASV72,unclassified,Rhodophyta,Florideophyceae,Corallinales,Spongitidaceae,Spongites,Spongites sp.
+ASV720,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 12 JV-2020
+ASV721,Metazoa,Entoprocta,unclassified,unclassified,Loxosomatidae,Loxosomella,Loxosomella stomatophora
+ASV723,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 19 JV-2020
+ASV737,Metazoa,Annelida,Polychaeta,Sabellida,Serpulidae,Pileolaria,Pileolaria marginata
+ASV747,Metazoa,Cnidaria,Hydrozoa,Anthoathecata,Corymorphidae,Corymorpha,Corymorpha groenlandica
+ASV748,Metazoa,Mollusca,Bivalvia,Ostreida,Ostreidae,Dendostrea,Dendostrea crenulifera
+ASV761,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Vermetidae,Thylacodes,Thylacodes squamigerus
+ASV8,Metazoa,Porifera,Calcarea,Clathrinida,Clathrinidae,unclassified,Clathrinidae sp. 4 JV-2020
+ASV80,unclassified,Bacillota,Bacilli,Bacillales,Bacillaceae,Caldalkalibacillus,Caldalkalibacillus thermarum
+ASV8000,Metazoa,Porifera,Calcarea,Leucosolenida,unclassified,unclassified,Leucosolenida sp. 13 JV-2020
+ASV81,Metazoa,Porifera,Demospongiae,Haplosclerida,Chalinidae,unclassified,Chalinidae sp. 2 JV-2020
+ASV82,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Vermetidae,Thylaeodus,Thylaeodus sp. TAR-2014
+ASV822,Viridiplantae,Chlorophyta,Chloropicophyceae,Chloropicales,Chloropicaceae,Chloropicon,Chloropicon roscoffensis
+ASV833,Metazoa,Platyhelminthes,Trematoda,Plagiorchiida,Opecoelidae,Magnaosimum,Magnaosimum brooksae
+ASV850,Metazoa,Nemertea,Enopla,Monostilifera,Tetrastemmatidae,Nemertellina,Nemertellina yamaokai
+ASV87,Metazoa,Porifera,Demospongiae,Poecilosclerida,unclassified,unclassified,Poecilosclerida sp. 7 JV-2020
+ASV9,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Hipponicidae,Sabia,Sabia australis
+ASV91,Metazoa,Porifera,Demospongiae,Haplosclerida,Chalinidae,Cladocroce,Cladocroce sp. 1 JV-2020
+ASV921,Metazoa,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Haliclona sp. 23 JV-2020
+ASV95,Metazoa,Porifera,Demospongiae,Dictyoceratida,Irciniidae,Ircinia,Ircinia sp. 2 JV-2020
+ASV10000,Metazoa,Porifera,Demospongiae,Suberitida,Halichondriidae,Halichondria,Halichondria coerulea
+ASV10001,Metazoa,Cnidaria,Anthozoa,Scleractinia,Poritidae,Porites,Porites lutea
+ASV10002,Metazoa,Porifera,Demospongiae,Poecilosclerida,Mycalidae,Mycale,Mycale cecilia
+ASV10004,Metazoa,Annelida,Polychaeta,Phyllodocida,Polynoidae,Lepidonotus,Lepidonotus havaicus
+ASV10008,Metazoa,Annelida,Polychaeta,unclassified,Orbiniidae,Naineris,Naineris sp.
+ASV10009,Metazoa,Arthropoda,Malacostraca,Amphipoda,Gammaridae,unclassified,Gammaridae sp. KML 32
+ASV10010,Metazoa,Cnidaria,Hydrozoa,Anthoathecata,Pandeidae,Pandeopsis,Pandeopsis ikarii
+ASV10012,Metazoa,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Chelonaplysilla,Chelonaplysilla erecta
+ASV10013,Metazoa,Annelida,Polychaeta,Eunicida,Dorvilleidae,unclassified,Dorvilleidae sp. BMOO-13194
+ASV10015,Metazoa,Mollusca,Gastropoda,unclassified,Cerithiidae,Cerithium,Cerithium zebrum
+ASV10016,Metazoa,Porifera,Demospongiae,Biemnida,Biemnidae,Sigmaxinella,Sigmaxinella hipposiderus
+ASV10017,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Hipponicidae,Antisabia,Antisabia imbricata
+ASV10018,Metazoa,Mollusca,Gastropoda,Lepetellida,Fissurellidae,Diodora,Diodora octagona
+ASV10021,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Vermetidae,Petaloconchus,Petaloconchus keenae
+ASV10022,Metazoa,Cnidaria,Anthozoa,Actiniaria,Aiptasiidae,Exaiptasia,Exaiptasia diaphana
+ASV10023,Metazoa,Annelida,Polychaeta,unclassified,Orbiniidae,Naineris,Naineris aff. laevigata HAW01
+ASV10024,Metazoa,Mollusca,Gastropoda,Lepetellida,Fissurellidae,Diodora,Diodora ruppellii
+ASV10025,Metazoa,Porifera,Demospongiae,Dendroceratida,Darwinellidae,Dendrilla,Dendrilla sp. FAR-2016
+ASV10026,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,Ophiactis,Ophiactis sp. HAW02
+ASV10027,Metazoa,Annelida,Polychaeta,Eunicida,Oenonidae,Oenone,Oenone aff. fulgida HAW02
+ASV10028,Metazoa,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Kemponia,Kemponia sp. HAW01
+ASV10029,unclassified,Rhodophyta,Florideophyceae,Gigartinales,Hypneaceae,Hypnea,Hypnea sp.
+ASV10030,Metazoa,Annelida,Polychaeta,Terebellida,Cirratulidae,Dodecaceria,Dodecaceria sp. AMW23009
+ASV10032,Metazoa,Chordata,Ascidiacea,Phlebobranchia,Ascidiidae,Ascidia,Ascidia sp. HAW01
+ASV10035,Metazoa,Porifera,Demospongiae,Suberitida,Suberitidae,Protosuberites,Protosuberites denhartogi
+ASV10036,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,Ophiactis,Ophiactis aff. savignyi HAW02
+ASV10037,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,unclassified,Ophiactidae sp. 2mm_0360
+ASV10038,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,Ophiactis,Ophiactis lymani
+ASV10039,Metazoa,Annelida,Polychaeta,Phyllodocida,Syllidae,Syllis,Syllis malaquini
+ASV10041,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae,Amphipholis,Amphipholis cf. squamata ACAP105
+ASV10042,Metazoa,Mollusca,Gastropoda,Trochida,Trochidae,Trochus,Trochus intextus
+ASV10044,unclassified,Rhodophyta,Florideophyceae,Corallinales,Porolithaceae,Harveylithon,Harveylithon sp. 9
+ASV10045,unclassified,Cercozoa,Chlorarachniophyceae,unclassified,unclassified,Amorphochlora,Amorphochlora amoebiformis
+ASV10046,Metazoa,Annelida,Polychaeta,Terebellida,Terebellidae,Eupolymnia,Eupolymnia sp. HAW02
+ASV10048,Metazoa,Annelida,Polychaeta,Phyllodocida,Nereididae,Ceratonereis,Ceratonereis tentaculata
+ASV10049,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Vermetidae,Thylaeodus,Thylaeodus sp. Rawlings et al 2010
+ASV10050,unclassified,unclassified,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota,Dictyota sp. 3FP
+ASV10051,Metazoa,Chordata,Actinopteri,Chaetodontiformes,Chaetodontidae,Chaetodon,Chaetodon auriga
+ASV10052,Metazoa,Porifera,Homoscleromorpha,Homosclerophorida,Plakinidae,Plakortis,Plakortis sp. 1 JV-2020
+ASV10054,Metazoa,Annelida,Polychaeta,unclassified,unclassified,unclassified,Polychaeta sp. C_0230
+ASV10055,Metazoa,Annelida,Polychaeta,Terebellida,Cirratulidae,Timarete,Timarete punctata
+ASV10056,unclassified,Rhodophyta,Florideophyceae,Corallinales,Corallinaceae,Hydrolithon,Hydrolithon boergesenii
+ASV10057,Metazoa,Arthropoda,Malacostraca,Amphipoda,unclassified,unclassified,Amphipoda sp. LPdivOTU63
+ASV10058,Metazoa,Annelida,unclassified,unclassified,unclassified,unclassified,Annelida sp. FLFIV312-14
+ASV10059,Metazoa,Annelida,Polychaeta,Phyllodocida,Hesionidae,Syllidia,Syllidia sp. A ZW-2021
+ASV10060,Metazoa,Mollusca,Bivalvia,Ostreida,Ostreidae,unclassified,Ostreidae sp. HAW01
+ASV10061,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae,Amphipholis,Amphipholis sp. HAW01
+ASV10063,unclassified,Rhodophyta,Florideophyceae,Gelidiales,Pterocladiaceae,Pterocladiella,Pterocladiella sp. 8
+ASV10064,Metazoa,Annelida,unclassified,unclassified,unclassified,unclassified,Annelida sp. BOLD:ACQ2837
+ASV10065,Metazoa,Annelida,Polychaeta,Eunicida,Eunicidae,Nematonereis,Nematonereis sp. C_1328
+ASV10066,Metazoa,Annelida,Polychaeta,unclassified,Chaetopteridae,Phyllochaetopterus,Phyllochaetopterus verrilli
+ASV10067,unclassified,Rhodophyta,Florideophyceae,Hapalidiales,Hapalidiaceae,Phymatolithon,Phymatolithon taiwanense
+ASV10068,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,Ophiactis,Ophiactis sp. NBEGC07
+ASV10069,unclassified,Pseudomonadota,Alphaproteobacteria,Candidatus Pelagibacterales,Candidatus Pelagibacteraceae,unclassified,alpha proteobacterium HIMB59
+ASV10070,Metazoa,Annelida,Polychaeta,Eunicida,Eunicidae,Lysidice,Lysidice ninetta
+ASV10071,Metazoa,Annelida,Polychaeta,Eunicida,Eunicidae,Eunice,Eunice aff. antennata HAW02
+ASV10072,Metazoa,Mollusca,Gastropoda,Littorinimorpha,Vermetidae,Thylaeodus,Thylaeodus sp. TAR-2010
+ASV10073,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,Ophiactis,Ophiactis sp. HAW01
+ASV10075,Metazoa,Annelida,Polychaeta,Terebellida,Cirratulidae,Ctenodrilus,Ctenodrilus japonicus
+ASV10076,Metazoa,Porifera,Demospongiae,Tetractinellida,Tetillidae,Cinachyra,Cinachyra sp. CJ-2016
+ASV10077,unclassified,Bacillariophyta,Mediophyceae,Cymatosirales,Cymatosiraceae,Minutocellus,Minutocellus polymorphus
+ASV10078,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Ophiactidae,unclassified,Ophiactidae sp. 2mm_0184
+ASV10079,unclassified,unclassified,Phaeophyceae,Dictyotales,Dictyotaceae,Dictyota,Dictyota friabilis
+ASV10081,Metazoa,Annelida,Polychaeta,Terebellida,Cirratulidae,Timarete,Timarete ceciliae
+ASV10083,unclassified,Rhodophyta,Florideophyceae,Peyssonneliales,Peyssonneliaceae,Peyssonnelia,Peyssonnelia sp. 8
+ASV10084,Metazoa,Echinodermata,Ophiuroidea,Amphilepidida,Amphiuridae,Amphipholis,Amphipholis sp. 2mm_0350

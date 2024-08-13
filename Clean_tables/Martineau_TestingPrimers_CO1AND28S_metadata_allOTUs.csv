@@ -1,0 +1,23 @@
+Sample,cocktail,expected,ARMUNIT,primer,test
+%cover20,percent coverage (2),no,20,28S,percent coverage 28S
+%cover18,percent coverage (2),no,18,28S,percent coverage 28S
+ARMS2028S,ARMS unit (3),no,20,28S,ARMS 28S
+ARMS1828S,ARMS unit (3),no,18,28S,ARMS 28S
+%cover17,percent coverage (2),no,17,28S,percent coverage 28S
+ARMS1728S,ARMS unit (3),no,17,28S,ARMS 28S
+ExpectedPC17,percent coverage (2),yes,17,Expected,Expected % coverage
+ExpectedPC18,percent coverage (2),yes,18,Expected,Expected % coverage
+ExpectedPC20,percent coverage (2),yes,20,Expected,Expected % coverage
+ARMS17CO1,ARMS unit (3),no,17,CO1,ARMS CO1
+ARMS18CO1,ARMS unit (3),no,18,CO1,ARMS CO1
+ARMS20CO1,ARMS unit (3),no,20,CO1,ARMS CO1
+Equimolar20,equimolar mock community (1),no,20,28S,equimolar
+Equimolar18,equimolar mock community (1),no,18,28S,equimolar
+AllOTUs,All_OTU(4),no,0,28S,all equimolar
+Negative1820,negative,no,0,28S,none
+Equimolar17,equimolar mock community (1),no,17,28S,equimolar
+Negative17,negative,no,17,28S,none
+ExpectedEq17,equimolar mock community (1),yes,17,Expected,Expected equimolar
+ExpectedEq18,equimolar mock community (1),yes,18,Expected,Expected equimolar
+ExpectedEq20,equimolar mock community (1),yes,20,Expected,Expected equimolar
+ExpectedAllOTUs,All_OTU(4),yes,0,28S,all equimolar
