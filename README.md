@@ -5,7 +5,7 @@
 ## Fastq Sequences
 The raw, demultiplexed Fastq files were submitted to NCBI. This project's NCBI Sequence Read Archive (SRA) numbers are XXXXX and can be obtained here: https://www.ncbi.nlm.nih.gov/sra.
 
-Data were sequenced in three MiSeq runs: 1) 28S ARMS A and associated mock communities, 2) 28S ARMS B and C and associated mock communities were sequenced together with *Mock community 1*, and 3) COI data. The Fastq file names corresponding to the sample name are in the XX file in the Bioinformatics folder. 
+Data were sequenced in three MiSeq runs: 1) 28S ARMS A and associated mock communities, 2) 28S ARMS B and C and associated mock communities together with *Mock community 1*, and 3) COI ARMS A, B and C data. The Fastq file names corresponding to the sample names are in the XX file in the Bioinformatics folder. 
 
 Sequences were processed using the DADA2 pipeline. See the manuscript for details. The rarefied, clean abundance tables' outputs and the BLASTn outputs are in the Bioinformatics folder. 
 
@@ -21,7 +21,7 @@ contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to
 - Cleaned post-DADA2 abundance table with sequences - Martineau_TestingPrimers_Clean_ARM17_abundance_sequences_071224.rarefied.csv
 - BLASTn output of sequences queried against local sponge database - blast_results_ARMS17.tab
 - BLASTn output of sequences queried against GenBank nt database - blast_results_ARMS17_nt.tab
-- R script filtering BLASTn outputs, assigning taxonomy, merging results and duplicates - Martineau_TestingPrimers_bioinformatics_ARMSA28S_070224.R
+- R script filtering BLASTn outputs, assigning taxonomy, merging results and duplicated taxonomic entities - Martineau_TestingPrimers_bioinformatics_ARMSA28S_070224.R
 
 ### 2. COI
 contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to assign taxonomy, filter, and merge BLASTn results for COI data. The resulting taxonomy and abundance tables are located in the 28SCOI folder. 
@@ -30,10 +30,10 @@ contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to
 - Cleaned post-DADA2 abundance table with sequences - Testing_primers_sequence_ASV_COI_070224.rarefied.csv
 - BLASTn output of sequences queried against local sponge database - blast_results_COI_sponges_070224.tab
 - BLASTn output of sequences queried against GenBank nt database - blastn_COI_outputs-070224.tab
-- R script filtering BLASTn outputs, assigning taxonomy, merging results and duplicates - Martineau_TestingPrimers_bioinformatics_COI.R
+- R script filtering BLASTn outputs, assigning taxonomy, merging results and duplicated taxonomic entities - Martineau_TestingPrimers_bioinformatics_COI.R
 
 ### 3. 28SCOI
-contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to assign taxonomy, filter, and merge BLASTn results for *Mock 	community 1*, 28S ARMS B and C, and associated mock communities. This R script also merges abundance and taxonomy tables from the 3 sequencing runs 	into one clean and final output with no duplicated taxonomic entities. Those final tables are located in the Clean_tables folder. 
+contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to assign taxonomy, filter, and merge BLASTn results for *Mock 	community 1*, 28S ARMS B and C, and associated mock communities. This R script also merges abundance and taxonomy tables from the 3 sequencing runs into one clean and final output with no duplicated taxonomic entities. Those final tables are located in the Clean_tables folder. 
 
 - Cleaned post-DADA2 abundance table- Martineau_Testing_primers_abundance_ASV_070224.rarefied.csv
 - Cleaned post-DADA2 abundance table with sequences - Martineau_Testing_primers_abundance_sequences_070224.rarefied.csv
@@ -42,11 +42,11 @@ contains the post-DADA2 abundance tables, BLASTn outputs, and custom R script to
 - Clean abundance and taxonomy tables for COI sequencing run - sponge_ntCOI_taxonomy_table.csv and sponge_ntCOI_abundance_table.csv
 - Clean abundance and taxonomy tables for ARMS A and associated mock communities - sponge_ntARMS17_taxonomy_table.csv and sponge_ntARMS17_abundance_table.csv
 - Meta data information about sample names: Martineau_TestingPrimers_28SANDCO1_Metadata.csv
-- R script filtering BLASTn outputs, assigning taxonomy, merging results of 3 sequencing runs, and deleting duplicates - Martineau_TestingPrimers_bioinformatics_28SCOI_070224.R
+- R script filtering BLASTn outputs, assigning taxonomy, merging results of 3 sequencing runs, and deleting duplicated taxonomic entities - Martineau_TestingPrimers_bioinformatics_28SCOI_070224.R
 
 
 ## Clean_tables
-This folder contains all data (the clean taxonomy, abundance tables, and metadata files) used for data analyses.  
+This folder contains all data (the clean taxonomy, abundance tables, and metadata files) used for manuscript data analyses.  
 
 - Taxonomy, abundance tables, and metadata files for Figure S1: sponge_ntARMS17_taxonomy_table.csv, sponge_ntARMS17_abundance_table.csv and Martineau_TestingPrimers_metadata_17.csv
 Taxonomy and abundance tables were produced in the Martineau_TestingPrimers_bioinformatics_ARMSA28S_070224.R script. 
