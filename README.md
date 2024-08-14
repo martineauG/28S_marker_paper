@@ -3,7 +3,7 @@
 
 
 ## Fastq Sequences
-The raw, demultiplexed Fastq files were submitted to NCBI through Genome. This project's NCBI Sequence Read Archive (SRA) numbers are XXXXX and can be obtained here: https://www.ncbi.nlm.nih.gov/sra.
+The raw, demultiplexed Fastq files were submitted to NCBI. This project's NCBI Sequence Read Archive (SRA) numbers are XXXXX and can be obtained here: https://www.ncbi.nlm.nih.gov/sra.
 
 Data were sequenced in three MiSeq runs: 1) 28S ARMS A and associated mock communities, 2) 28S ARMS B and C and associated mock communities were sequenced together with *Mock community 1*, and 3) COI data. The Fastq file names corresponding to the sample name are in the XX file in the Bioinformatics folder. 
 
