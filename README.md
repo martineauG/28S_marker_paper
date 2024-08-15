@@ -1,6 +1,8 @@
 # 28S_marker_paper
- This is a repository of the code and data used in the analysis of the manuscript entitled: "Introducing a novel 28S rRNA marker for improved assessment of coral reef biodiversity"
+ This is a repository of the code and data used in the analysis of the manuscript entitled: "Introducing a novel 28S rRNA marker for improved assessment of coral reef biodiversity".
 
+## Primer_Alignment
+This folder contains the aligned sponge sequences used to design the novel primer pair.
 
 ## Fastq Sequences
 The raw, demultiplexed Fastq files were submitted to NCBI. This project's NCBI Sequence Read Archive (SRA) numbers are XXXXX and can be obtained here: https://www.ncbi.nlm.nih.gov/sra.
