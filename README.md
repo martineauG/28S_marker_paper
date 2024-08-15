@@ -7,7 +7,7 @@ This folder contains the aligned sponge sequences used to design the novel prime
 ## Fastq Sequences
 The raw, demultiplexed Fastq files were submitted to NCBI. This project's NCBI Sequence Read Archive (SRA) numbers are XXXXX and can be obtained here: https://www.ncbi.nlm.nih.gov/sra.
 
-Data were sequenced in three MiSeq runs: 1) 28S ARMS A and associated mock communities, 2) 28S ARMS B and C and associated mock communities together with *Mock community 1*, and 3) COI ARMS A, B and C data. The Fastq file names corresponding to the sample names are in the XX file in the Bioinformatics folder. 
+Data were sequenced in three MiSeq runs: 1) 28S ARMS A and associated mock communities, 2) 28S ARMS B and C and associated mock communities together with *Mock community 1*, and 3) COI ARMS A, B and C data. The Fastq file names, corresponding sample names and treatments are in the Martineau_Testing_primers_sequence_metadata.csv file in the Bioinformatics folder. 
 
 Sequences were processed using the DADA2 pipeline. See the manuscript for details. The rarefied, clean abundance tables' outputs and the BLASTn outputs are in the Bioinformatics folder. 
 
