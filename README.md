@@ -5,7 +5,7 @@
 This folder contains the aligned sponge sequences used to design the novel primer pair.
 
 ## Fastq Sequences
-The raw, demultiplexed Fastq files were submitted to NCBI. This project's NCBI Sequence Read Archive (SRA) numbers are SRR30275729-SRR30275738; SRR30316297-SRR30316304; SRR30316420-SRR30316422 under Bioproject PRJNA1149044 and can be obtained here: https://www.ncbi.nlm.nih.gov/sra.
+The raw, demultiplexed Fastq files were submitted to NCBI. This project's NCBI Sequence Read Archive (SRA) numbers are SRR30275729-SRR30275738; SRR30316297-SRR30316304 and SRR30316420-SRR30316422 under Bioproject PRJNA1149044 and can be obtained here: https://www.ncbi.nlm.nih.gov/sra.
 
 Data were sequenced in three MiSeq runs: 1) 28S ARMS A and associated mock communities, 2) 28S ARMS B and C and associated mock communities together with *Mock community 1*, and 3) COI ARMS A, B and C data. The Fastq file names, corresponding sample names and treatments are in the Martineau_Testing_primers_sequence_metadata.csv file in the Bioinformatics folder. 
 
